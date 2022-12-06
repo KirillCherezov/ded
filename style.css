@@ -17,6 +17,9 @@ header {
 	align-items: center;
 	background-color: #99ff99;
 }
+header h1 {
+	margin-left: 10px;
+}
 .logo {
 	display: flex;
 	align-items: center;
